@@ -121,9 +121,9 @@ reset();
                   <img src="https://i.ibb.co/RjMJ1NV/location-removebg-preview-1.png" alt="" />
                 </Box>
                 <Box>
-                  <Typography sx={{ ml: 4 }} variant='h5'>Location</Typography>
-                  <Typography variant='body'>Dhaka, Bangladesh</Typography><br />
-                  <Typography variant='body'>Tangail, Bangladesh</Typography>
+                  <Typography sx={{ ml: 4 }} variant='h5' style={{color:"white"}}>Location</Typography>
+                  <Typography variant='body' style={{color:"white"}}>Dhaka, Bangladesh</Typography><br />
+                  <Typography variant='body' style={{color:"white"}}>Tangail, Bangladesh</Typography>
                 </Box>
               </Box>
 
@@ -134,9 +134,9 @@ reset();
                   <img src="https://i.ibb.co/kgC58zp/email-removebg-preview-1.png" alt="" />
                 </Box>
                 <Box>
-                  <Typography sx={{ ml: 5 }} variant='h5'>Mail Us</Typography>
-                  <Typography variant='body'>nuruzzaman@gmail.com</Typography><br />
-                  <Typography variant='body'>ahmed@gmail.com</Typography>
+                  <Typography sx={{ ml: 5 }} variant='h5'style={{color:"white"}}>Mail Us</Typography>
+                  <Typography variant='body' style={{color:"white"}}>tamal@gmail.com</Typography><br />
+                  <Typography variant='body' style={{color:"white"}}>marufultamal6@gmail.com</Typography>
 
                 </Box>
 
@@ -149,9 +149,9 @@ reset();
                   <img src="https://i.ibb.co/J2DjHCn/mobilee-removebg-preview-1.png" alt="" />
                 </Box>
                 <Box>
-                  <Typography sx={{ ml: 4 }} variant='h5'>Call Us</Typography>
-                  <Typography variant='body'>+880179689299</Typography><br />
-                  <Typography variant='body'>+880179677892</Typography>
+                  <Typography sx={{ ml: 4 }} variant='h5' style={{color:"white"}}>Call Us</Typography>
+                  <Typography variant='body' style={{color:"white"}}>+8801796892</Typography><br />
+                  <Typography variant='body' style={{color:"white"}}>+8801796778</Typography>
                 </Box>
 
 
